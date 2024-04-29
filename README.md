@@ -4,4 +4,4 @@ A new Flutter project to demo Shaders
 
 ## Demo
 
-// gif url
+![Demo](https://raw.githubusercontent.com/ponnamkarthik/flutter_shaders_demo/main/screenshots/demo.gif)
